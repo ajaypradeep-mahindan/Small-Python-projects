@@ -1,2 +1,2 @@
 # Small-Python-projects
-Python Projects simple ones
+These are the simple projects that done by myself 
